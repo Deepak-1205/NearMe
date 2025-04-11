@@ -248,12 +248,12 @@ ags.html
 
 ## OUTPUT
 
-![alt text](city/6.png)
-![alt text](city/1.png)
-![alt text](city/2.png)
-![alt text](city/3.png)
-![alt text](city/4.png)
-![alt text](city/5.png)
+
+![alt text](1.png)
+![alt text](2.png)
+![alt text](3.png)
+![alt text](4.png)
+![alt text](5.png)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
