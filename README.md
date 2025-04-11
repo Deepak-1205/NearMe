@@ -248,7 +248,7 @@ ags.html
 
 ## OUTPUT
 
-![alt text](city/mapapp/static/map.png)
+![alt text](city/6.png)
 ![alt text](city/1.png)
 ![alt text](city/2.png)
 ![alt text](city/3.png)
